@@ -1,2 +1,2 @@
-n=int(input())
-print("Hello\n"*n)
+times=int(input())
+print("Hello\n"*times)
